@@ -60,3 +60,5 @@ pnpm dev
 Once you have entered this code, the live server will continue to run. If you would like to stop the server, type **[control] [c]**. You will see the terminal window exit the live server.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can see the site's deployment by clicking on [🔗 here](https://dogapinext.netlify.app/)
